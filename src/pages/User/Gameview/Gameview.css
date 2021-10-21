@@ -1,0 +1,25 @@
+.view {
+    display: flex;
+}
+
+.span {
+    color: white;
+    font-size: 2rem;
+    padding-top: 2rem;
+    
+}
+
+.button {
+    width: 8rem;
+    margin-top: 10rem;
+    margin-left: 2.5rem;
+}
+
+.span p {
+    font-size: 1rem;
+    color: white;
+}
+
+.span label {
+    color: lawngreen;
+}

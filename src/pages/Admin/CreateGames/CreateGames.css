@@ -1,0 +1,33 @@
+.form__label{
+    color: white
+    
+}
+
+.tituloCreate {
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.cardCreate {
+    position: relative;
+    width: 520px;
+    height: 950px;
+    background: rgba(12, 29, 14, 0.253);
+    border-radius: 20px;
+    overflow: hidden; 
+    margin: 0 auto;
+    margin-top: 2rem;
+
+    
+    
+    
+}
+
+.body_create {
+    height: 100%;
+}
+
+
+
+

@@ -1,0 +1,27 @@
+.home{
+    
+    color: lawngreen;
+    text-align: center;
+    margin: 0;
+    
+    
+}
+
+.fav h1{
+    padding-top: 5rem;
+    
+    
+}
+
+.back {
+    position: relative;
+    width: 80%;
+    height: 700px;
+    background: rgba(12, 29, 14, 0.253);
+    border-radius: 20px;
+    overflow: hidden; 
+    margin: 0 auto;
+    margin-top: 2rem;
+    
+}
+

@@ -1,0 +1,34 @@
+.navbar {
+    display: flex;
+    position: relative;
+}
+
+.nav {
+    justify-content: start;
+    text-decoration: none;
+    margin: 2em;
+    
+}
+
+.headerdiv {
+    justify-content: flex-end;
+    display: flex;
+    
+}
+
+.logout {
+    text-decoration: none;
+    color: white;
+
+
+    
+
+}
+
+.login {
+    margin: 2rem;
+    justify-content: end;
+    color: white;
+    text-decoration: none;
+
+}

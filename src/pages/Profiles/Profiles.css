@@ -1,0 +1,24 @@
+.Profilediv {
+    height: 100vh;
+}
+
+.backProfile h1 {
+    color: lawngreen;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.profiles {
+    height: 15rem;
+}
+
+.backProfile {
+    position: relative;
+    width: 80%;
+    height: 20rem;
+    background: rgba(12, 29, 14, 0.253);
+    border-radius: 20px;
+    overflow: hidden; 
+    margin: 0 auto;
+    margin-top: 2rem;
+}
